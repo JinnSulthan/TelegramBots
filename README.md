@@ -5,6 +5,7 @@
 
 - [NazriyaNazeemBot](https://t.me/NazriyaNazeemBot) - <i>Powerful Bot To Manage Groups Efficiently And Wisely.</i>
 - [MissAndrea_Bot](https://t.me/MissAndrea_Bot) - <i>Most Complete And Efficient Bot To Manage Groups.</i>
+- [Ξ S Γ H Ξ Я](https://t.me/MissEstherBot) - Pᴏᴡᴇʀғᴜʟʟ Tᴇʟᴇɢʀᴀᴍ Bᴏᴛ Tᴏ Hᴇʟᴘ Yᴏᴜ Tᴏ Mᴀɴᴀɢᴇ Yᴏᴜʀ Gʀᴏᴜᴘs
 - [MissRose_bot](https://t.me/MissRose_bot) - <i>Powerful Telegram Bot To Manage Your Groups.</i>
 - [ZairaRobot](https://t.me/ZairaRobot) - <i>Powerful AI Based Bot To Manage Your Groups. 
 - [Tezza_Robot](https://t.me/tezza_Robot) - <i>Powerful Telegram Group Management Bot.</i> 
