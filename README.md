@@ -37,7 +37,12 @@
   
 - [Rename_X_Bot](https:/t.me/Rename_X_Bot) - <i>Bot To Rename And Convert Files.</i>
 - [Renamer_X_Bot](https:/t.me/Renamer_X_Bot) - <i>Bot To Rename And Convert Files.</i>
-
+- [RenamerNs_bot](https://t.me/RenamerNs_bot) 
+- [rename1robot](https://t.me/rename1robot) 
+- [rename2robot](https://t.me/rename2robot) 
+- [rename3robot](https://t.me/rename3robot) 
+- [rename4robot](https://t.me/rename4robot) 
+- [rename5robot](https://t.me/rename5robot) 
  
  ## Unlimited Filter Bots
  [Bots To Add Unlimited Number Of filters on group.]
