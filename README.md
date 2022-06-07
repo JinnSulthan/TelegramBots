@@ -88,3 +88,11 @@
 - [TG_AntiChannelbot](https://t.me/TG_AntiChannelbot) 
 - [AntiChannel_RBot](https://t.me/AntiChannel_RBot) 
 - [NoChannel_Robot](https://t.me/NoChannel_Robot) 
+
+ 
+## APP ID & API HASH Extractor Bots
+[Bot to Find APP ID & Hash] 
+- [UseTGXBot](https://t.me/UseTGXBot) 
+- [UseTGSBot](https://t.me/UseTGSBot) 
+- or Use [my.telegram.org](https://my.telegram.org/apps)
+
