@@ -9,8 +9,9 @@
 - [ZairaRobot](https://t.me/ZairaRobot) - <i>Powerful AI Based Bot To Manage Your Groups. 
 - [Tezza_Robot](https://t.me/tezza_Robot) - <i>Powerful Telegram Group Management Bot.</i> 
 - [MrEldro_Bot](https://t.me/MrEldro_Bot) - <i>Powerful Telegram Group Management Bot.</i>
-  
-  
+- [GroupHelpBot](https://t.me/GroupHelpBot) - <i> Powerful Telegram Group Management Bot To Manage your Groups Easily, And also With cloning Feature. 
+- [Real_Queen_bot](https://t.me/Real_Queen_bot) - <i>AI based Powerful Group Management Bot.</>
+ 
   
   
   
