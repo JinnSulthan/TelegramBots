@@ -11,8 +11,8 @@
 - [MrEldro_Bot](https://t.me/MrEldro_Bot) - <i>Powerful Telegram Group Management Bot.</i>
 - [GroupHelpBot](https://t.me/GroupHelpBot) - <i> Powerful Telegram Group Management Bot To Manage your Groups Easily, And also With cloning Feature. 
 - [Real_Queen_bot](https://t.me/Real_Queen_bot) - <i>AI based Powerful Group Management Bot.</>
- 
-  
+- [LittleBaeBot](https://t.me/LittleBaeBot) - <i>AI Based Powerful Group Management Bot.</i>
+- [MissEstherBot](https://t.me/MissEstherBot) - <i>AI Based Powerful Group Management Bot.</i>
   
   
   
