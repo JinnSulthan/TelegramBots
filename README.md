@@ -64,3 +64,9 @@
 - [DeleteEventsBot](https://t.me/DeleteEventsBot) 
 - [AntiServiceMessage_Bot](https://t.me/AntiServiceMessage_Bot) 
 - [AntiServiceMessageBot](https://t.me/AntiServiceMessageBot) 
+
+## Session String Generator Bots. 
+[Bots To Create pyrogram and Telethon String session.]
+ 
+- [SessionStringGeneratorZBot](https://t.me/SessionStringGeneratorZBot) - <i> Can Create Both pyrogram and Telethon Session</i>
+- [genStr_Bot](https://t.me/genStr_Bot) - <i> Pyrogram Session only supported.</i>
