@@ -21,8 +21,15 @@
   
 - [NazriyaNazeemRoBot](https://t.me/NazriyaNazeemRoBot)
 - [LUCIFER](https://t.me/CC_autobot)
-  
-  
+- [MWK_AUTOFILTERBOT](https://t.me/MWK_AUTOFILTERBOT) 
+- [SamanthaMoviesBot](https://t.me/SamanthaMoviesBot) 
+- [TGMovies2Bot](https://t.me/TGMovies2Bot) 
+- [UFSAdvFilterBot](https://t.me/UFSAdvFilterBot) 
+- [FILESEARCHxBOT](https://t.me/FILESEARCHxBOT) 
+- [TheMinatoBot](https://t.me/TheMinatoBot) 
+- [TGFilmBot](https://t.me/TGFilmBot) 
+- [TGFilmRobot](https://t.me/TGFilmRobot) 
+- [TGMovieRobot](https://t.me/TGMovieRobot) 
   
   
 ## Rename Bots
