@@ -70,3 +70,11 @@
  
 - [SessionStringGeneratorZBot](https://t.me/SessionStringGeneratorZBot) - <i> Can Create Both pyrogram and Telethon Session</i>
 - [genStr_Bot](https://t.me/genStr_Bot) - <i> Pyrogram Session only supported.</i>
+
+ 
+## IMDB Search Bots. 
+[Can Get Informations About Movies, Series etc...(inline search Mode Supported)]
+
+- [imdb](https://t.me/imdb) 
+- [imdbot](https://t.me/imdbot) 
+- [IMdbSearchRoBot](https://IMdbSearchRoBot) 
