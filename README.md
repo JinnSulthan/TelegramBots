@@ -78,3 +78,13 @@
 - [imdb](https://t.me/imdb) 
 - [imdbot](https://t.me/imdbot) 
 - [IMdbSearchRoBot](https://t.me/IMdbSearchRoBot) 
+
+ 
+## Channel Restrict Bot
+[Bots Which can Delete and ban Anonymous message From a chat written through a channel by an user] 
+ 
+- [RestrictChannelBot](https://t.me/RestrictChannelBot) 
+- [channelLimiterBot](https://t.me/channelLimiterBot) 
+- [TG_AntiChannelbot](https://t.me/TG_AntiChannelbot) 
+- [AntiChannel_RBot](https://t.me/AntiChannel_RBot) 
+- [NoChannel_Robot](https://t.me/NoChannel_Robot) 
