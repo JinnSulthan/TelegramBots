@@ -77,4 +77,4 @@
 
 - [imdb](https://t.me/imdb) 
 - [imdbot](https://t.me/imdbot) 
-- [IMdbSearchRoBot](https://IMdbSearchRoBot) 
+- [IMdbSearchRoBot](https://t.me/IMdbSearchRoBot) 
