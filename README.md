@@ -30,7 +30,19 @@
 - [TGFilmBot](https://t.me/TGFilmBot) 
 - [TGFilmRobot](https://t.me/TGFilmRobot) 
 - [TGMovieRobot](https://t.me/TGMovieRobot) 
-  
+
+## Audio & Video Downloading Bots.
+[Bots which helps to Play Video or Audio in Group or Channel]
+
+- [AamiSongbot](https://t.me/Aami_song_bot)
+- [MoochinSongbot](https://t.me/MoochinSongbot)
+- [GeethuProbot](https://t.me/Geethu_Pro_bot)
+- [SpotifyBot](https://t.me/Spoti_Unoff_bot)
+
+# Instagram Bot.
+[Bots Which allow you to download Instagram Stuffs]
+
+- [InstanderBot](https://t.me/Instander_unoffi_bot)
   
 ## Rename Bots
 [File Renamer And Convertor Bots] 
@@ -42,7 +54,8 @@
 - [rename2robot](https://t.me/rename2robot) 
 - [rename3robot](https://t.me/rename3robot) 
 - [rename4robot](https://t.me/rename4robot) 
-- [rename5robot](https://t.me/rename5robot) 
+- [rename5robot](https://t.me/rename5robot)
+- [Renamer_v3.0](https://t.me/Re_nameXbot) - <i>Renamer Bot V 3.0 </i>
  
  ## Unlimited Filter Bots
  [Bots To Add Unlimited Number Of filters on group.]
