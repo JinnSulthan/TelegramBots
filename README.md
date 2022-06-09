@@ -20,7 +20,9 @@
 [Bots Which Helps To Search Movies, Series] 
   
 - [NazriyaNazeemRoBot](https://t.me/NazriyaNazeemRoBot)
+- [TessaMovieBot](https://t.me/TessaMovieBot) 
 - [LUCIFER](https://t.me/CC_autobot)
+- [DoraFilterBot](https://t.me/DoraFilterBot) 
 - [MWK_AUTOFILTERBOT](https://t.me/MWK_AUTOFILTERBOT) 
 - [SamanthaMoviesBot](https://t.me/SamanthaMoviesBot) 
 - [TGMovies2Bot](https://t.me/TGMovies2Bot) 
@@ -30,6 +32,8 @@
 - [TGFilmBot](https://t.me/TGFilmBot) 
 - [TGFilmRobot](https://t.me/TGFilmRobot) 
 - [TGMovieRobot](https://t.me/TGMovieRobot) 
+- [TheMinatoBot](https://t.me/TheMinatoBot) 
+- [TheAutoFilterBot](https://t.me/TheAutoFilterBot) 
 
 ## Audio & Video Downloading Bots.
 [Bots which helps to Play Video or Audio in Group or Channel]
