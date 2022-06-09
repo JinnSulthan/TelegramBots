@@ -34,6 +34,8 @@
 - [TGMovieRobot](https://t.me/TGMovieRobot) 
 - [TheMinatoBot](https://t.me/TheMinatoBot) 
 - [TheAutoFilterBot](https://t.me/TheAutoFilterBot) 
+- [TheZerinaBot](https://t.me/TheZerinaBot) 
+- [ProSearchBot](https://t.me/ProSearchBot) 
 
 ## Audio & Video Downloading Bots.
 [Bots which helps to Play Video or Audio in Group or Channel]
