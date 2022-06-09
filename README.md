@@ -14,7 +14,9 @@
 - [LittleBaeBot](https://t.me/LittleBaeBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [MissEstherBot](https://t.me/MissEstherBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [TamiliniBot](https://t.me/TamiliniBot) - <i>Powerful Group Management Bot.</i>
- 
+- [EduuRobot](https://t.me/EduuRobot) 
+- [rSophieBot](https://t.me/rSophieBot) 
+- [HarukaAyaBot](https://t.me/HarukaAyaBot) 
   
 ## Inline Movie Search And Autofilter Bots. 
 [Bots Which Helps To Search Movies, Series] 
