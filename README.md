@@ -14,6 +14,13 @@
 - [LittleBaeBot](https://t.me/LittleBaeBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [MissEstherBot](https://t.me/MissEstherBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [TamiliniBot](https://t.me/TamiliniBot) - <i>Powerful Group Management Bot.</i>
+- [DeviLxAngel](https://t.me/DevilxAngeLBot) - <i>Powerful Telegram Group Management Bot + Vc Music</i>
+ 
+ 
+## Telegram Music Bots
+ [Bots Which Helps To Play Music In Your Group Video Chat]
+ 
+- [PyTgMusicBot](https://t.me/Pytgs_MusicBot) - <i>Powerful Telegram Music Bot.</i>
  
   
 ## Inline Movie Search And Autofilter Bots. 
