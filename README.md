@@ -10,17 +10,21 @@
 - [Tezza_Robot](https://t.me/tezza_Robot) - <i>Powerful Telegram Group Management Bot.</i> 
 - [MrEldro_Bot](https://t.me/MrEldro_Bot) - <i>Powerful Telegram Group Management Bot.</i>
 - [GroupHelpBot](https://t.me/GroupHelpBot) - <i> Powerful Telegram Group Management Bot To Manage your Groups Easily, And also With cloning Feature. 
-- [Real_Queen_bot](https://t.me/Real_Queen_bot) - <i>AI based Powerful Group Management Bot.</>
+- [Real_Queen_bot](https://t.me/Real_Queen_bot) - <i>AI based Powerful Group Management Bot.</i>
 - [LittleBaeBot](https://t.me/LittleBaeBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [MissEstherBot](https://t.me/MissEstherBot) - <i>AI Based Powerful Group Management Bot.</i>
 - [TamiliniBot](https://t.me/TamiliniBot) - <i>Powerful Group Management Bot.</i>
- 
+- [EduuRobot](https://t.me/EduuRobot) 
+- [rSophieBot](https://t.me/rSophieBot) 
+- [HarukaAyaBot](https://t.me/HarukaAyaBot) 
   
 ## Inline Movie Search And Autofilter Bots. 
 [Bots Which Helps To Search Movies, Series] 
   
 - [NazriyaNazeemRoBot](https://t.me/NazriyaNazeemRoBot)
+- [TessaMovieBot](https://t.me/TessaMovieBot) 
 - [LUCIFER](https://t.me/CC_autobot)
+- [DoraFilterBot](https://t.me/DoraFilterBot) 
 - [MWK_AUTOFILTERBOT](https://t.me/MWK_AUTOFILTERBOT) 
 - [SamanthaMoviesBot](https://t.me/SamanthaMoviesBot) 
 - [TGMovies2Bot](https://t.me/TGMovies2Bot) 
@@ -30,7 +34,23 @@
 - [TGFilmBot](https://t.me/TGFilmBot) 
 - [TGFilmRobot](https://t.me/TGFilmRobot) 
 - [TGMovieRobot](https://t.me/TGMovieRobot) 
-  
+- [TheMinatoBot](https://t.me/TheMinatoBot) 
+- [TheAutoFilterBot](https://t.me/TheAutoFilterBot) 
+- [TheZerinaBot](https://t.me/TheZerinaBot) 
+- [ProSearchBot](https://t.me/ProSearchBot) 
+
+## Audio & Video Downloading Bots.
+[Bots which helps to Play Video or Audio in Group or Channel]
+
+- [AamiSongbot](https://t.me/Aami_song_bot)
+- [MoochinSongbot](https://t.me/MoochinSongbot)
+- [GeethuProbot](https://t.me/Geethu_Pro_bot)
+- [SpotifyBot](https://t.me/Spoti_Unoff_bot)
+
+# Instagram Bot.
+[Bots Which allow you to download Instagram Stuffs]
+
+- [InstanderBot](https://t.me/Instander_unoffi_bot)
   
 ## Rename Bots
 [File Renamer And Convertor Bots] 
@@ -42,7 +62,8 @@
 - [rename2robot](https://t.me/rename2robot) 
 - [rename3robot](https://t.me/rename3robot) 
 - [rename4robot](https://t.me/rename4robot) 
-- [rename5robot](https://t.me/rename5robot) 
+- [rename5robot](https://t.me/rename5robot)
+- [Renamer_v3.0](https://t.me/Re_nameXbot) - <i>Renamer Bot V 3.0 </i>
  
  ## Unlimited Filter Bots
  [Bots To Add Unlimited Number Of filters on group.]
