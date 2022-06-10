@@ -122,3 +122,37 @@
 - [UseTGSBot](https://t.me/UseTGSBot) 
 - or Use [my.telegram.org](https://my.telegram.org/apps)
 
+
+## Telegraph Bots
+[Bots to upload Image, video, Gif under 5MB to Telegra.ph]
+
+- [AVTelegraphBot](https://t.me/AVTelegraphBot)
+- [AH_TelegraphBot](https://t.me/AH_TelegraphBot)
+- [bryll_telegraph_bot](https://t.me/bryll_telegraph_bot)
+- [MT_Telegraph_BoT](https://t.me/MT_Telegraph_BoT)
+
+
+## Seedr Bots
+[leeching website like Zbigz. And it provide free 2GB cloud storage for downloading your torrents online.]
+
+- [SeedrProBot](https://t.me/SeedrProBot)
+- [seedrNs_bot](https://t.me/seedrNs_bot)
+
+
+## Files Forward Bot (Auto Forward)
+[Bot To Forward Files From One Channel To Another Channel.] 
+
+- [OkForwardBot](https://t.me/OkForwardBot) 
+- [Autoforward_Nsbot](https://t.me/Autoforward_Nsbot) 
+
+
+## DMCA Deleter RoBot
+[Bot To Delete Copyright Claimed (DMCA) Message on Group.]
+
+- [DmcaHEXbot](https://t.me/DmcaHEXbot)
+- [DMCATelegramBot](https://t.me/DMCATelegramBot)
+- [DmcaXRoBot](https://t.me/DmcaXRoBot)
+
+
+## Force Subscriber Bots
+[
