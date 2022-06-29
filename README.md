@@ -17,6 +17,7 @@
 - [EduuRobot](https://t.me/EduuRobot) 
 - [rSophieBot](https://t.me/rSophieBot) 
 - [HarukaAyaBot](https://t.me/HarukaAyaBot) 
+- [DeviLxAngel](https://t.me/DevilxAngeLBot) - <i>Powerful Telegram Group Management Bot + Vc Music</i>
   
 ## Inline Movie Search And Autofilter Bots. 
 [Bots Which Helps To Search Movies, Series] 
@@ -39,13 +40,15 @@
 - [TheZerinaBot](https://t.me/TheZerinaBot) 
 - [ProSearchBot](https://t.me/ProSearchBot) 
 
-## Audio & Video Downloading Bots.
+## Audio & Video Downloading and streaming Bots.
 [Bots which helps to Play Video or Audio in Group or Channel]
 
 - [AamiSongbot](https://t.me/Aami_song_bot)
 - [MoochinSongbot](https://t.me/MoochinSongbot)
 - [GeethuProbot](https://t.me/Geethu_Pro_bot)
 - [SpotifyBot](https://t.me/Spoti_Unoff_bot)
+- [PyTgMusicBot](https://t.me/Pytgs_MusicBot) - <i>Powerful Telegram Music Bot.</i>
+
 
 # Instagram Bot.
 [Bots Which allow you to download Instagram Stuffs]
