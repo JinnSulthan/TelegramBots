@@ -159,3 +159,11 @@
 
 ## Force Subscriber Bots
 [
+
+
+## Forward Bot
+[Bots To Forward Files messages etc.... From Channel to Channel.]
+
+- [Okforwardbot](https://t.me/Okforwardbot) 
+- [Mdforwardbot](https://t.me/Mdforwardbot) 
+- [Autoforward_Nsbot](https://t.me/Autoforward_Nsbot) 
