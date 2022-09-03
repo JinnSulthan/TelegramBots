@@ -22,7 +22,7 @@
 ## Inline Movie Search And Autofilter Bots. 
 [Bots Which Helps To Search Movies, Series] 
   
-- [NazriyaNazeemRoBot](https://t.me/NazriyaNazeemRoBot)
+- [NazriyaNazeemRoBot](https://t.me/NazriyaNazeemRoBot) #stopped
 - [TessaMovieBot](https://t.me/TessaMovieBot) 
 - [LUCIFER](https://t.me/CC_autobot)
 - [DoraFilterBot](https://t.me/DoraFilterBot) 
