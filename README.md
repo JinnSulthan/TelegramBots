@@ -133,6 +133,7 @@
 - [AH_TelegraphBot](https://t.me/AH_TelegraphBot)
 - [bryll_telegraph_bot](https://t.me/bryll_telegraph_bot)
 - [MT_Telegraph_BoT](https://t.me/MT_Telegraph_BoT)
+- [vTelegraphBot](https://t.me/vTelegraphBot) 
 
 
 ## Seedr Bots
@@ -142,12 +143,14 @@
 - [seedrNs_bot](https://t.me/seedrNs_bot)
 
 
-## Files Forward Bot (Auto Forward)
-[Bot To Forward Files From One Channel To Another Channel.] 
+## Unzipper Bots
+[Bots to Unzip and Unrar Files.] 
 
-- [OkForwardBot](https://t.me/OkForwardBot) 
-- [Autoforward_Nsbot](https://t.me/Autoforward_Nsbot) 
-
+- [UnzipTGBot](https://t.me/UnzipTGBot) 
+- [ExtractHexBot](https://t.me/ExtractHexBot) 
+- [
+-
+-
 
 ## DMCA Deleter RoBot
 [Bot To Delete Copyright Claimed (DMCA) Message on Group.]
